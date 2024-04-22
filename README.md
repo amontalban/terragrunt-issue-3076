@@ -6,6 +6,7 @@ This repo is used as a reproduceable test case for issue https://github.com/grun
 
 It is recommended that you have the following tools installed:
 
+- GNU Parallel
 - Docker
 - Docker-compose
 - asdf
