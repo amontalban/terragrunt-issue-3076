@@ -18,7 +18,7 @@ It is recommended that you have the following tools installed:
 
 # Running the test
 
-There are two cases for the test, one to run multiple jobs in parallel (To replicate what Atlatnis does) and one to run them sequentially.
+There are two cases for the test, one to run multiple jobs in parallel (To replicate what Atlantis does) and one to run them sequentially.
 
 For parallel execution run: `make parallel`
 
