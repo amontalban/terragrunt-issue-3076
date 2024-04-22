@@ -14,7 +14,7 @@ It is recommended that you have the following tools installed:
 # Setup
 
 1. Clone this repo
-2. Run `asdf install` to install the correct Terraform and Terragrunt versions
+2. Run `make setup` to install Terraform and Terragrunt using `asdf`.
 
 # Running the test
 
